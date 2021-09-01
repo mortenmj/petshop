@@ -4,7 +4,7 @@ metadata:
   name: Petshop
   description: An example deployment of a Backstage application.
   annotations:
-    github.com/project-slug: backstage/petshop
+    github.com/project-slug: mortenmj/petshop
 spec:
   type: website
   owner: backstage/maintainers
