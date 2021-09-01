@@ -9,6 +9,8 @@ spec:
   type: website
   owner: backstage/maintainers
   lifecycle: experimental
+  providesApis:
+  - petshop
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
